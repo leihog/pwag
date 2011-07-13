@@ -1,0 +1,12 @@
+PWAG - Picasa Web Album Gallery
+
+PWAG is a proof of concept for integrating Picasa Web Albums (PWA) in to an existing web site.
+PWAG is not a complete application with all the bells and whistles. If you are looking for an out of the box solution this is not for you.
+If you however are a PHP developer wanting to learn more about how to integrate PWA with your existing site then this might be helpful.
+
+Setup:
+1) Add your PWA username to config.php.
+2) Load up index.php in your browser and follow instructions. You should end upp with a code to paste in to your config file.
+3) Paste code in to config.php
+
+Have fun
