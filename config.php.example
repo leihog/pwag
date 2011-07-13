@@ -1,0 +1,5 @@
+<?php
+
+define('PWA_USER', 'exampleuser');
+define('SHOW_PRIVATE_ALBUMS', false);
+define('AUTH_SUB_TOKEN', 'secret...');
